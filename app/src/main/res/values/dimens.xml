@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titletextsize">17sp</dimen>
+    <dimen name="titlebottommargin">5dp</dimen>
+    <dimen name="desptextsize">16sp</dimen>
+    <dimen name="authortextsize">15sp</dimen>
+    <dimen name="authortextsizw">14sp</dimen>
+    <dimen name="dividerheight">1dp</dimen>
+    <dimen name="linearlayoutwidth">0dp</dimen>
+    <dimen name="mainlayoutpadding">8dp</dimen>
+</resources>

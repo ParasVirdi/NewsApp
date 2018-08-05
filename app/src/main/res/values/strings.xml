@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsBox</string>
+    <string name="newstitle">News title</string>
+    <string name="description">Description</string>
+    <string name="newsauthor">News Author</string>
+    <string name="time">Time</string>
+</resources>
